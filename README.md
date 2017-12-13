@@ -4,7 +4,7 @@ A simple React 'Hello World' using Parcel as bundler for testing purposes
 
 ## How to use
 
-Install Parcel Bundler globally using npm
+Install [Parcel Bundler](https://github.com/parcel-bundler/parcel) globally using npm
 ```
 npm i -g parcel-bundler
 ```
