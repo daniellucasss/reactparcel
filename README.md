@@ -8,7 +8,7 @@ Install Parcel Bundler globally using npm
 ```
 npm i -g parcel-bundler
 ```
-Clone this project
+Clone this project  
 Install dependencies using the command
 ```
 yarn
