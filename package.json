@@ -1,0 +1,16 @@
+{
+  "name": "reactparcel",
+  "version": "0.0.1",
+  "description": "A simple React 'Hello World' using Parcel as bundler for testing purposes",
+  "main": "index.js",
+  "author": "Daniel Lucas",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html "
+  },
+  "dependencies": {
+    "babel-preset-react-app": "^3.1.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
