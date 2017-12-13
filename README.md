@@ -1,10 +1,10 @@
 # ReactParcel
 
-A simple React 'Hello World' using Parcel as bundler for testing purposes
+A simple React 'Hello World' using [Parcel](https://github.com/parcel-bundler/parcel) as bundler for testing purposes
 
 ## How to use
 
-Install [Parcel Bundler](https://github.com/parcel-bundler/parcel) globally using npm
+Install Parcel globally using npm
 ```
 npm i -g parcel-bundler
 ```
